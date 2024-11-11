@@ -1,7 +1,7 @@
 Kjo eshte zgjidhja e HW1.
 
-Nëse ndodh që ka probleme, sigurohuni së pari që jeni në direktoriumin e HW1. 
-Pastaj përdorini këto komanda:
+Sigurohuni së pari që jeni në direktoriumin e HW1. 
+Ju duhen libraritë "three" dhe "vite". Përdorini këto komanda për t'i instaluar:
 ```bash
 npm install vite
 npm install three
